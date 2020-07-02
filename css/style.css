@@ -193,15 +193,18 @@ footer{
   header nav,
   #boxes .box,
   article#main-col,
-  aside#sidebar{
+  aside#sidebar,
+  aside#contactform{
     float: none;
     text-align: center;
     width: 100%;
   }
 
-  aside#sidebar{
+  aside#contactform{
     margin-top: 10px;
   }
+
+
 
   header{
     padding-bottom: 20px;
