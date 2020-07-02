@@ -140,22 +140,33 @@ body {
 
 /*Sidebar*/
 
-aside#sidebar{
+aside#contactform, aside#sidebar{
   text-align: center;
   float: right;
-  width: 32%;
-  margin-top: 10px;
+  width: 38%;
 }
 
-aside#sidebar .quote input, aside#sidebar .quote textarea{
+aside#contactform{
+    margin-top: 50px;
+}
+
+aside#sidebar {
+    margin-top: 10px;
+}
+
+aside#contactform .quote input, aside#contactform .quote textarea{
   width: 90%;
   padding:5px;
+}
+
+#contactform textarea{
+  height: 100px;
 }
 
 /*Main-col*/
 article#main-col{
   float: left;
-  width: 65%;
+  width: 60%;
 }
 
 /*Services*/
@@ -187,9 +198,15 @@ footer{
     text-align: center;
     width: 100%;
   }
+
+  aside#sidebar{
+    margin-top: 10px;
+  }
+
   header{
     padding-bottom: 20px;
   }
+
   header nav li{
     float: none;
     text-align: center;
