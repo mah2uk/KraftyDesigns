@@ -6,7 +6,7 @@
 
   $email_from = 'contact@krafty-designs.com';
 
-  $email_subject = "New Form Submission";
+  $email_subject = "New Form Submission $name.\";
 
   $email_body = "User Name: $name.\n".
                   "User Email: $visitor_email.\n".
