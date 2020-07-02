@@ -13,7 +13,7 @@
                     "User Message: $message.\n";
 
 
-$to = "admin@kraty-designs.com";
+$to = "admin@krafty-designs.com";
 
 $headers = "From: $email_from \r\n";
 
