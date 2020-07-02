@@ -12,7 +12,7 @@
 
 /*Global*/
 .container{
-    width: 95%;
+    width: 85%;
     margin: auto;
     overflow:hidden;
 }
@@ -194,7 +194,7 @@ footer{
     float: none;
     text-align: center;
     width: 100%;
-    padding: 0 7px 0 7px;
+    padding: 0 10px 0 10px;
   }
 
   #showcase h1{
