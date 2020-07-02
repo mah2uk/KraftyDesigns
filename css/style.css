@@ -143,19 +143,19 @@ body {
 aside#sidebar{
   text-align: center;
   float: right;
-  width: 90%;
+  width: 32%;
   margin-top: 10px;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea{
-  width: 80%;
+  width: 90%;
   padding:5px;
 }
 
 /*Main-col*/
 article#main-col{
   float: left;
-  width: 90%;
+  width: 65%;
 }
 
 /*Services*/
