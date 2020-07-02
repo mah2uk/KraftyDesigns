@@ -10,7 +10,7 @@
 
   $email_body = "User Name: $name.\n".
                   "User Email: $visitor_email.\n".
-                    "User Message: $message.\n".;
+                    "User Message: $message.\n";
 
 
 $to = "admin@kraty-designs.com";
